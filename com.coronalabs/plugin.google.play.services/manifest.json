@@ -1,0 +1,1 @@
+{"version":2,"publisher":"com.coronalabs","name":"plugin.google.play.services","platforms":{"android":{"2016.3005":{"dependencies":{"shared.google.play.services.ads":"com.coronalabs"}},"2019.3497":[]},"android-kindle":{"2016.3005":{"dependencies":{"shared.google.play.services.ads":"com.coronalabs"}},"2019.3497":[]}}}
